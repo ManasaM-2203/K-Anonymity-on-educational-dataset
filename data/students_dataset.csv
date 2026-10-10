@@ -1,0 +1,751 @@
+Student_ID,Name,Age,Gender,Department,Year,City,CGPA,Academic_Performance
+STU2024001,Aarav Chavan,19,Male,Mechanical Engg,2nd Year,Hubballi,8.0,Good
+STU2024002,Akash Nayak,19,Male,Computer Science,2nd Year,Mysuru,6.45,Average
+STU2024003,Neha Acharya,20,Female,Computer Science,3rd Year,Mangaluru,8.51,Excellent
+STU2024004,Aarav Joshi,20,Male,Computer Science,3rd Year,Chennai,8.73,Excellent
+STU2024005,Diya Reddy,19,Female,Electronics & Comm,1st Year,Belagavi,5.41,Needs Improvement
+STU2024006,Gautam Hegde,21,Male,Electronics & Comm,4th Year,Belagavi,6.15,Average
+STU2024007,Rohan Nayak,18,Male,Mechanical Engg,1st Year,Belagavi,7.8,Good
+STU2024008,Jordan Hegde,19,Other,Civil Engg,2nd Year,Bengaluru,7.29,Good
+STU2024009,Rashmi Murthy,21,Female,Computer Science,3rd Year,Mangaluru,7.63,Good
+STU2024010,Manish Joshi,19,Male,Data Science & AI,2nd Year,Hubballi,6.67,Average
+STU2024011,Ritu Deshmukh,18,Female,Information Science,1st Year,Bengaluru,8.66,Excellent
+STU2024012,Divya Acharya,20,Female,Information Science,2nd Year,Hyderabad,8.54,Excellent
+STU2024013,Priya Iyer,18,Female,Computer Science,1st Year,Mangaluru,7.73,Good
+STU2024014,Sachin Rao,20,Male,Electronics & Comm,1st Year,Bengaluru,8.95,Excellent
+STU2024015,Isha Iyer,21,Female,Information Science,3rd Year,Bengaluru,8.19,Good
+STU2024016,Tanvi Verma,18,Female,Biotechnology,1st Year,Hubballi,6.66,Average
+STU2024017,Aditi Murthy,20,Female,Information Science,3rd Year,Bengaluru,8.07,Good
+STU2024018,Nandini Chavan,18,Female,Computer Science,1st Year,Hyderabad,6.55,Average
+STU2024019,Pranav Menon,19,Male,Information Science,2nd Year,Bengaluru,8.66,Excellent
+STU2024020,Abhishek Bhat,20,Male,Computer Science,3rd Year,Mysuru,7.59,Good
+STU2024021,Kiran Kulkarni,19,Other,Biotechnology,1st Year,Bengaluru,7.44,Good
+STU2024022,Akash Pai,20,Male,Electronics & Comm,3rd Year,Mangaluru,6.87,Average
+STU2024023,Anushka Sharma,23,Female,Mechanical Engg,4th Year,Hubballi,9.06,Excellent
+STU2024024,Sachin Prabhu,20,Male,Electronics & Comm,3rd Year,Bengaluru,7.47,Good
+STU2024025,Ritu Bhat,20,Female,Computer Science,3rd Year,Bengaluru,7.16,Good
+STU2024026,Manish Gowda,22,Male,Computer Science,4th Year,Bengaluru,7.25,Good
+STU2024027,Karan Pai,19,Male,Electronics & Comm,1st Year,Mysuru,8.26,Good
+STU2024028,Siddharth Kamat,18,Male,Information Science,1st Year,Mysuru,8.07,Good
+STU2024029,Aditya Prabhu,21,Male,Computer Science,3rd Year,Hubballi,8.12,Good
+STU2024030,Amit Kulkarni,18,Male,Computer Science,1st Year,Bengaluru,8.15,Good
+STU2024031,Diya Shetty,22,Female,Computer Science,4th Year,Mangaluru,9.95,Excellent
+STU2024032,Aarav Gowda,22,Male,Computer Science,4th Year,Mysuru,7.18,Good
+STU2024033,Shreya Deshmukh,18,Female,Information Science,1st Year,Hyderabad,7.06,Good
+STU2024034,Pranav Sharma,21,Male,Civil Engg,3rd Year,Mangaluru,6.71,Average
+STU2024035,Karan Nair,18,Male,Mechanical Engg,1st Year,Bengaluru,8.36,Good
+STU2024036,Ananya Nayak,20,Female,Electronics & Comm,2nd Year,Bengaluru,8.95,Excellent
+STU2024037,Dev Gowda,21,Male,Computer Science,3rd Year,Bengaluru,7.52,Good
+STU2024038,Manish Nayak,21,Male,Information Science,3rd Year,Mangaluru,6.68,Average
+STU2024039,Nikhil Kamat,20,Male,Computer Science,3rd Year,Bengaluru,6.7,Average
+STU2024040,Varun Patil,23,Male,Computer Science,4th Year,Mangaluru,8.4,Good
+STU2024041,Amit Gowda,20,Male,Computer Science,3rd Year,Bengaluru,8.5,Excellent
+STU2024042,Pooja Rao,19,Female,Electronics & Comm,2nd Year,Bengaluru,8.27,Good
+STU2024043,Alex Prabhu,21,Other,Mechanical Engg,4th Year,Hyderabad,6.88,Average
+STU2024044,Isha Hegde,20,Female,Information Science,3rd Year,Bengaluru,7.92,Good
+STU2024045,Rashmi Menon,21,Female,Computer Science,4th Year,Hyderabad,7.78,Good
+STU2024046,Swati Sharma,21,Female,Information Science,4th Year,Bengaluru,7.9,Good
+STU2024047,Chris Chavan,20,Other,Electronics & Comm,2nd Year,Bengaluru,8.65,Excellent
+STU2024048,Suresh Iyer,21,Male,Electronics & Comm,3rd Year,Bengaluru,7.91,Good
+STU2024049,Rhea Rao,22,Female,Data Science & AI,4th Year,Pune,8.43,Good
+STU2024050,Pooja Prabhu,19,Female,Data Science & AI,1st Year,Mysuru,7.73,Good
+STU2024051,Arjun Kulkarni,23,Male,Civil Engg,4th Year,Pune,7.98,Good
+STU2024052,Nandini Patil,21,Female,Mechanical Engg,4th Year,Hubballi,8.38,Good
+STU2024053,Meera Acharya,19,Female,Data Science & AI,1st Year,Bengaluru,5.97,Average
+STU2024054,Varun Rao,20,Male,Computer Science,2nd Year,Bengaluru,7.28,Good
+STU2024055,Ritu Murthy,23,Female,Computer Science,4th Year,Mangaluru,7.11,Good
+STU2024056,Aditi Patil,21,Female,Biotechnology,4th Year,Bengaluru,6.92,Average
+STU2024057,Kiran Deshmukh,18,Other,Mechanical Engg,1st Year,Bengaluru,7.33,Good
+STU2024058,Abhishek Hegde,19,Male,Computer Science,2nd Year,Hubballi,9.37,Excellent
+STU2024059,Aditi Prabhu,21,Female,Mechanical Engg,3rd Year,Mysuru,6.65,Average
+STU2024060,Rashmi Patil,21,Female,Computer Science,3rd Year,Hyderabad,8.76,Excellent
+STU2024061,Sanjay Sharma,20,Male,Electronics & Comm,2nd Year,Bengaluru,5.71,Average
+STU2024062,Sachin Prabhu,20,Male,Electronics & Comm,3rd Year,Mysuru,7.26,Good
+STU2024063,Pranav Nair,19,Male,Electronics & Comm,1st Year,Bengaluru,7.84,Good
+STU2024064,Rashmi Kamat,20,Female,Biotechnology,2nd Year,Hubballi,8.32,Good
+STU2024065,Pranav Verma,21,Male,Computer Science,3rd Year,Chennai,8.47,Good
+STU2024066,Rhea Kulkarni,21,Female,Computer Science,4th Year,Chennai,8.56,Excellent
+STU2024067,Akash Shetty,19,Male,Computer Science,2nd Year,Hubballi,7.25,Good
+STU2024068,Manish Iyer,20,Male,Mechanical Engg,3rd Year,Belagavi,7.12,Good
+STU2024069,Sneha Kulkarni,20,Female,Electronics & Comm,1st Year,Bengaluru,8.64,Excellent
+STU2024070,Isha Shetty,18,Female,Electronics & Comm,1st Year,Mangaluru,7.43,Good
+STU2024071,Tanvi Shenoy,22,Female,Information Science,4th Year,Hyderabad,6.18,Average
+STU2024072,Meera Chavan,21,Female,Mechanical Engg,4th Year,Pune,6.35,Average
+STU2024073,Deepika Singh,20,Female,Computer Science,3rd Year,Bengaluru,6.59,Average
+STU2024074,Ritu Pai,18,Female,Information Science,1st Year,Bengaluru,8.22,Good
+STU2024075,Sneha Sharma,19,Female,Computer Science,2nd Year,Pune,7.81,Good
+STU2024076,Divya Acharya,19,Female,Electronics & Comm,1st Year,Mysuru,8.44,Good
+STU2024077,Pranav Reddy,23,Male,Information Science,4th Year,Hubballi,7.16,Good
+STU2024078,Mayank Kulkarni,19,Male,Electronics & Comm,2nd Year,Mysuru,7.83,Good
+STU2024079,Sachin Chavan,18,Male,Computer Science,1st Year,Mangaluru,8.37,Good
+STU2024080,Shreya Nayak,20,Female,Mechanical Engg,3rd Year,Bengaluru,7.29,Good
+STU2024081,Ananya Murthy,19,Female,Information Science,2nd Year,Belagavi,8.18,Good
+STU2024082,Sneha Murthy,21,Female,Mechanical Engg,4th Year,Bengaluru,6.89,Average
+STU2024083,Manish Menon,20,Male,Computer Science,1st Year,Bengaluru,7.23,Good
+STU2024084,Aaradhya Shenoy,18,Female,Mechanical Engg,1st Year,Mangaluru,7.21,Good
+STU2024085,Keerthi Murthy,20,Female,Electronics & Comm,3rd Year,Hubballi,6.27,Average
+STU2024086,Meera Nair,18,Female,Information Science,1st Year,Hubballi,8.21,Good
+STU2024087,Sachin Acharya,18,Male,Civil Engg,1st Year,Bengaluru,7.11,Good
+STU2024088,Pranav Prabhu,20,Male,Biotechnology,3rd Year,Belagavi,7.66,Good
+STU2024089,Sneha Prabhu,19,Female,Information Science,2nd Year,Pune,8.2,Good
+STU2024090,Amit Sharma,22,Male,Civil Engg,4th Year,Hubballi,8.16,Good
+STU2024091,Nandini Verma,21,Female,Civil Engg,4th Year,Mangaluru,8.42,Good
+STU2024092,Siddharth Chavan,20,Male,Computer Science,3rd Year,Hyderabad,7.54,Good
+STU2024093,Tanvi Kulkarni,20,Female,Mechanical Engg,3rd Year,Bengaluru,7.16,Good
+STU2024094,Rahul Joshi,19,Male,Computer Science,2nd Year,Bengaluru,7.56,Good
+STU2024095,Nikhil Pai,19,Male,Computer Science,1st Year,Hubballi,5.71,Average
+STU2024096,Manish Acharya,20,Male,Information Science,2nd Year,Bengaluru,5.99,Average
+STU2024097,Shreya Acharya,18,Female,Information Science,1st Year,Mangaluru,6.13,Average
+STU2024098,Nandini Pai,20,Female,Computer Science,2nd Year,Bengaluru,6.5,Average
+STU2024099,Neha Patil,18,Female,Civil Engg,1st Year,Bengaluru,8.11,Good
+STU2024100,Vidya Murthy,22,Female,Electronics & Comm,3rd Year,Bengaluru,6.61,Average
+STU2024101,Neha Nair,18,Female,Computer Science,1st Year,Mangaluru,7.22,Good
+STU2024102,Ananya Pai,20,Female,Electronics & Comm,2nd Year,Hubballi,9.14,Excellent
+STU2024103,Aaradhya Nayak,19,Female,Information Science,2nd Year,Chennai,7.24,Good
+STU2024104,Vidya Hegde,21,Female,Computer Science,4th Year,Mangaluru,8.5,Excellent
+STU2024105,Kavya Nayak,21,Female,Computer Science,4th Year,Mangaluru,6.58,Average
+STU2024106,Anushka Shenoy,18,Female,Information Science,1st Year,Mysuru,7.41,Good
+STU2024107,Siddharth Nair,20,Male,Biotechnology,3rd Year,Bengaluru,6.56,Average
+STU2024108,Ravi Kamat,18,Male,Computer Science,1st Year,Mangaluru,7.26,Good
+STU2024109,Sneha Shetty,20,Female,Computer Science,3rd Year,Bengaluru,8.62,Excellent
+STU2024110,Tanvi Gowda,21,Female,Civil Engg,3rd Year,Mangaluru,5.66,Average
+STU2024111,Karan Sharma,18,Male,Computer Science,1st Year,Bengaluru,8.15,Good
+STU2024112,Ananya Joshi,22,Female,Civil Engg,4th Year,Hyderabad,7.92,Good
+STU2024113,Tanvi Acharya,19,Female,Computer Science,2nd Year,Mangaluru,6.97,Average
+STU2024114,Anushka Deshmukh,22,Female,Electronics & Comm,4th Year,Bengaluru,5.99,Average
+STU2024115,Rashmi Nayak,20,Female,Civil Engg,3rd Year,Belagavi,7.73,Good
+STU2024116,Dev Singh,19,Male,Computer Science,2nd Year,Chennai,7.04,Good
+STU2024117,Vidya Gowda,19,Female,Information Science,2nd Year,Bengaluru,7.92,Good
+STU2024118,Sneha Acharya,20,Female,Information Science,2nd Year,Belagavi,7.68,Good
+STU2024119,Diya Patil,18,Female,Civil Engg,1st Year,Pune,9.49,Excellent
+STU2024120,Aarav Prabhu,21,Male,Computer Science,4th Year,Mysuru,7.37,Good
+STU2024121,Vikram Menon,19,Male,Computer Science,2nd Year,Bengaluru,6.47,Average
+STU2024122,Keerthi Singh,20,Female,Electronics & Comm,1st Year,Bengaluru,7.86,Good
+STU2024123,Aditi Bhat,20,Female,Biotechnology,3rd Year,Hyderabad,7.9,Good
+STU2024124,Isha Menon,21,Female,Mechanical Engg,4th Year,Mysuru,9.21,Excellent
+STU2024125,Vidya Singh,18,Female,Information Science,1st Year,Hyderabad,8.61,Excellent
+STU2024126,Arjun Gowda,20,Male,Information Science,2nd Year,Hyderabad,8.06,Good
+STU2024127,Aarav Nair,21,Male,Electronics & Comm,3rd Year,Mangaluru,9.33,Excellent
+STU2024128,Varun Pai,19,Male,Civil Engg,2nd Year,Mysuru,6.28,Average
+STU2024129,Karan Acharya,18,Male,Data Science & AI,1st Year,Mysuru,6.91,Average
+STU2024130,Vidya Acharya,21,Female,Biotechnology,4th Year,Belagavi,6.58,Average
+STU2024131,Arjun Singh,21,Male,Biotechnology,4th Year,Bengaluru,7.2,Good
+STU2024132,Tanvi Hegde,19,Female,Mechanical Engg,2nd Year,Mysuru,6.07,Average
+STU2024133,Arjun Gowda,21,Male,Information Science,2nd Year,Hubballi,8.38,Good
+STU2024134,Rahul Prabhu,21,Male,Information Science,4th Year,Hubballi,7.39,Good
+STU2024135,Gautam Deshmukh,20,Male,Mechanical Engg,3rd Year,Bengaluru,5.96,Average
+STU2024136,Diya Sharma,22,Female,Mechanical Engg,4th Year,Bengaluru,6.48,Average
+STU2024137,Rhea Bhat,19,Female,Information Science,1st Year,Mysuru,8.01,Good
+STU2024138,Deepika Sharma,21,Female,Computer Science,3rd Year,Bengaluru,8.61,Excellent
+STU2024139,Mayank Prabhu,19,Male,Computer Science,1st Year,Mysuru,9.95,Excellent
+STU2024140,Priya Prabhu,19,Female,Data Science & AI,1st Year,Hubballi,9.95,Excellent
+STU2024141,Tanvi Rao,21,Female,Biotechnology,4th Year,Hubballi,8.13,Good
+STU2024142,Rhea Kamat,22,Female,Computer Science,4th Year,Mysuru,6.51,Average
+STU2024143,Rhea Acharya,21,Female,Mechanical Engg,2nd Year,Bengaluru,5.2,Needs Improvement
+STU2024144,Sanjay Chavan,23,Male,Mechanical Engg,4th Year,Pune,7.96,Good
+STU2024145,Manish Shenoy,21,Male,Computer Science,4th Year,Bengaluru,6.72,Average
+STU2024146,Sanjay Prabhu,22,Male,Data Science & AI,4th Year,Mangaluru,7.17,Good
+STU2024147,Tanvi Deshmukh,21,Female,Computer Science,3rd Year,Bengaluru,6.95,Average
+STU2024148,Dev Kamat,18,Male,Biotechnology,1st Year,Mangaluru,7.49,Good
+STU2024149,Dev Murthy,23,Male,Biotechnology,4th Year,Bengaluru,8.88,Excellent
+STU2024150,Amit Shetty,21,Male,Biotechnology,4th Year,Pune,7.83,Good
+STU2024151,Sachin Pai,20,Male,Computer Science,2nd Year,Mangaluru,7.47,Good
+STU2024152,Rashmi Chavan,20,Female,Civil Engg,3rd Year,Hyderabad,6.46,Average
+STU2024153,Pooja Singh,19,Female,Electronics & Comm,1st Year,Hyderabad,5.72,Average
+STU2024154,Diya Menon,23,Female,Information Science,4th Year,Mysuru,7.09,Good
+STU2024155,Ananya Nair,21,Female,Computer Science,4th Year,Mangaluru,7.59,Good
+STU2024156,Sanvi Prabhu,22,Female,Electronics & Comm,4th Year,Mangaluru,9.68,Excellent
+STU2024157,Siddharth Menon,18,Male,Information Science,1st Year,Chennai,7.8,Good
+STU2024158,Sanvi Kamat,21,Female,Data Science & AI,2nd Year,Bengaluru,8.78,Excellent
+STU2024159,Gautam Menon,19,Male,Computer Science,2nd Year,Bengaluru,7.08,Good
+STU2024160,Varun Gowda,21,Male,Electronics & Comm,3rd Year,Bengaluru,6.29,Average
+STU2024161,Manish Iyer,21,Male,Civil Engg,4th Year,Mangaluru,6.54,Average
+STU2024162,Manish Patil,22,Male,Electronics & Comm,4th Year,Bengaluru,6.82,Average
+STU2024163,Chris Pai,18,Other,Mechanical Engg,1st Year,Bengaluru,9.95,Excellent
+STU2024164,Pooja Nayak,19,Female,Computer Science,2nd Year,Hubballi,6.71,Average
+STU2024165,Tarun Gowda,20,Male,Electronics & Comm,2nd Year,Bengaluru,8.61,Excellent
+STU2024166,Mayank Deshmukh,21,Male,Mechanical Engg,3rd Year,Bengaluru,6.61,Average
+STU2024167,Aarav Deshmukh,22,Male,Information Science,4th Year,Bengaluru,8.72,Excellent
+STU2024168,Varun Gowda,21,Male,Computer Science,4th Year,Bengaluru,8.09,Good
+STU2024169,Kunal Pai,20,Male,Electronics & Comm,3rd Year,Bengaluru,7.47,Good
+STU2024170,Siddharth Hegde,21,Male,Mechanical Engg,4th Year,Pune,7.6,Good
+STU2024171,Karan Sharma,19,Male,Information Science,2nd Year,Mysuru,6.9,Average
+STU2024172,Isha Patil,20,Female,Information Science,2nd Year,Bengaluru,8.16,Good
+STU2024173,Akash Gowda,21,Male,Computer Science,4th Year,Hubballi,7.13,Good
+STU2024174,Gautam Deshmukh,20,Male,Information Science,3rd Year,Bengaluru,6.24,Average
+STU2024175,Rashmi Sharma,22,Female,Biotechnology,4th Year,Mangaluru,6.18,Average
+STU2024176,Divya Verma,18,Female,Computer Science,1st Year,Bengaluru,7.85,Good
+STU2024177,Rohan Hegde,20,Male,Civil Engg,3rd Year,Pune,9.47,Excellent
+STU2024178,Alex Shenoy,22,Other,Computer Science,4th Year,Bengaluru,7.83,Good
+STU2024179,Pranav Patil,19,Male,Computer Science,2nd Year,Mangaluru,7.51,Good
+STU2024180,Nandini Menon,21,Female,Electronics & Comm,4th Year,Mysuru,7.98,Good
+STU2024181,Meera Rao,19,Female,Biotechnology,2nd Year,Mangaluru,9.15,Excellent
+STU2024182,Arjun Joshi,20,Male,Computer Science,3rd Year,Mysuru,7.9,Good
+STU2024183,Anushka Shetty,19,Female,Electronics & Comm,2nd Year,Bengaluru,7.18,Good
+STU2024184,Rashmi Prabhu,20,Female,Information Science,3rd Year,Bengaluru,8.92,Excellent
+STU2024185,Alex Bhat,19,Other,Civil Engg,1st Year,Belagavi,8.14,Good
+STU2024186,Isha Bhat,19,Female,Computer Science,2nd Year,Mangaluru,9.42,Excellent
+STU2024187,Aditi Prabhu,21,Female,Data Science & AI,4th Year,Bengaluru,7.86,Good
+STU2024188,Diya Patil,20,Female,Mechanical Engg,3rd Year,Mysuru,6.24,Average
+STU2024189,Aaradhya Patil,19,Female,Electronics & Comm,1st Year,Hubballi,6.08,Average
+STU2024190,Sneha Hegde,18,Female,Electronics & Comm,1st Year,Mysuru,9.55,Excellent
+STU2024191,Ritu Kulkarni,19,Female,Electronics & Comm,2nd Year,Bengaluru,9.63,Excellent
+STU2024192,Rohan Rao,21,Male,Civil Engg,3rd Year,Bengaluru,7.44,Good
+STU2024193,Neha Joshi,21,Female,Mechanical Engg,3rd Year,Bengaluru,7.21,Good
+STU2024194,Vikram Shetty,21,Male,Information Science,3rd Year,Hyderabad,9.33,Excellent
+STU2024195,Ravi Shenoy,21,Male,Information Science,2nd Year,Mysuru,6.38,Average
+STU2024196,Swati Nair,22,Female,Information Science,4th Year,Bengaluru,6.62,Average
+STU2024197,Ananya Deshmukh,19,Female,Mechanical Engg,2nd Year,Chennai,8.39,Good
+STU2024198,Anushka Verma,19,Female,Biotechnology,2nd Year,Hubballi,7.2,Good
+STU2024199,Divya Menon,18,Female,Electronics & Comm,1st Year,Chennai,7.64,Good
+STU2024200,Ritu Acharya,18,Female,Computer Science,1st Year,Hubballi,7.46,Good
+STU2024201,Chris Rao,19,Other,Information Science,2nd Year,Bengaluru,8.04,Good
+STU2024202,Ravi Menon,19,Male,Electronics & Comm,2nd Year,Mysuru,9.27,Excellent
+STU2024203,Rashmi Shenoy,21,Female,Electronics & Comm,4th Year,Bengaluru,7.75,Good
+STU2024204,Swati Acharya,20,Female,Mechanical Engg,3rd Year,Bengaluru,8.39,Good
+STU2024205,Ravi Patil,22,Male,Civil Engg,4th Year,Hubballi,5.29,Needs Improvement
+STU2024206,Abhishek Gowda,20,Male,Information Science,3rd Year,Mysuru,7.59,Good
+STU2024207,Neha Patil,21,Female,Computer Science,4th Year,Bengaluru,6.68,Average
+STU2024208,Isha Verma,22,Female,Data Science & AI,4th Year,Bengaluru,6.25,Average
+STU2024209,Anushka Iyer,20,Female,Computer Science,3rd Year,Hubballi,6.64,Average
+STU2024210,Dev Chavan,19,Male,Mechanical Engg,2nd Year,Bengaluru,7.27,Good
+STU2024211,Rhea Chavan,21,Female,Computer Science,4th Year,Chennai,8.7,Excellent
+STU2024212,Karan Rao,20,Male,Information Science,3rd Year,Belagavi,6.12,Average
+STU2024213,Abhishek Verma,19,Male,Computer Science,2nd Year,Mangaluru,7.69,Good
+STU2024214,Aditya Menon,19,Male,Data Science & AI,2nd Year,Hubballi,7.09,Good
+STU2024215,Amit Nair,18,Male,Information Science,1st Year,Mysuru,7.27,Good
+STU2024216,Akash Kulkarni,22,Male,Data Science & AI,4th Year,Mysuru,8.8,Excellent
+STU2024217,Sanvi Kulkarni,19,Female,Computer Science,2nd Year,Bengaluru,8.27,Good
+STU2024218,Keerthi Menon,19,Female,Computer Science,2nd Year,Hyderabad,9.19,Excellent
+STU2024219,Arjun Acharya,19,Male,Data Science & AI,2nd Year,Bengaluru,7.47,Good
+STU2024220,Kavya Pai,22,Female,Information Science,4th Year,Belagavi,6.85,Average
+STU2024221,Isha Deshmukh,18,Female,Electronics & Comm,1st Year,Bengaluru,7.39,Good
+STU2024222,Vikram Shenoy,21,Male,Electronics & Comm,3rd Year,Hubballi,7.93,Good
+STU2024223,Aaradhya Shenoy,19,Female,Computer Science,2nd Year,Mangaluru,7.85,Good
+STU2024224,Rohan Gowda,21,Male,Civil Engg,4th Year,Mysuru,6.4,Average
+STU2024225,Vidya Deshmukh,22,Female,Computer Science,3rd Year,Bengaluru,7.75,Good
+STU2024226,Rohan Kulkarni,21,Male,Civil Engg,3rd Year,Hubballi,7.91,Good
+STU2024227,Ananya Rao,21,Female,Computer Science,3rd Year,Belagavi,9.95,Excellent
+STU2024228,Keerthi Singh,21,Female,Computer Science,3rd Year,Belagavi,9.81,Excellent
+STU2024229,Rhea Kamat,18,Female,Computer Science,1st Year,Hyderabad,6.67,Average
+STU2024230,Gautam Singh,19,Male,Computer Science,1st Year,Mysuru,7.32,Good
+STU2024231,Ravi Patil,20,Male,Information Science,2nd Year,Mysuru,5.97,Average
+STU2024232,Shreya Patil,21,Female,Electronics & Comm,4th Year,Hyderabad,6.97,Average
+STU2024233,Akash Chavan,19,Male,Biotechnology,2nd Year,Bengaluru,8.01,Good
+STU2024234,Isha Gowda,19,Female,Information Science,2nd Year,Hubballi,9.04,Excellent
+STU2024235,Tanvi Rao,20,Female,Data Science & AI,2nd Year,Mangaluru,6.81,Average
+STU2024236,Swati Deshmukh,18,Female,Information Science,1st Year,Belagavi,6.9,Average
+STU2024237,Aarav Iyer,22,Male,Information Science,4th Year,Bengaluru,5.18,Needs Improvement
+STU2024238,Swati Rao,20,Female,Computer Science,2nd Year,Bengaluru,7.46,Good
+STU2024239,Sanvi Rao,19,Female,Computer Science,2nd Year,Mysuru,6.43,Average
+STU2024240,Priya Kulkarni,21,Female,Computer Science,4th Year,Mysuru,7.04,Good
+STU2024241,Amit Murthy,22,Male,Computer Science,4th Year,Mangaluru,6.64,Average
+STU2024242,Vikram Kamat,19,Male,Information Science,1st Year,Pune,7.54,Good
+STU2024243,Diya Prabhu,24,Female,Mechanical Engg,4th Year,Hubballi,5.63,Average
+STU2024244,Pranav Nair,22,Male,Data Science & AI,4th Year,Mangaluru,5.96,Average
+STU2024245,Abhishek Kulkarni,18,Male,Computer Science,1st Year,Belagavi,9.95,Excellent
+STU2024246,Aditi Nayak,20,Female,Electronics & Comm,2nd Year,Mangaluru,6.17,Average
+STU2024247,Rhea Reddy,22,Female,Electronics & Comm,4th Year,Belagavi,6.39,Average
+STU2024248,Akash Iyer,22,Male,Information Science,4th Year,Hubballi,9.76,Excellent
+STU2024249,Aditi Menon,21,Female,Computer Science,3rd Year,Mysuru,9.95,Excellent
+STU2024250,Amit Verma,18,Male,Information Science,1st Year,Hubballi,6.3,Average
+STU2024251,Deepika Nair,21,Female,Electronics & Comm,4th Year,Mangaluru,7.23,Good
+STU2024252,Rhea Shenoy,20,Female,Computer Science,3rd Year,Hyderabad,8.04,Good
+STU2024253,Rashmi Shenoy,21,Female,Data Science & AI,3rd Year,Mangaluru,9.64,Excellent
+STU2024254,Aarav Gowda,18,Male,Electronics & Comm,1st Year,Mangaluru,6.52,Average
+STU2024255,Siddharth Shenoy,20,Male,Electronics & Comm,3rd Year,Bengaluru,7.37,Good
+STU2024256,Vikram Kulkarni,22,Male,Information Science,4th Year,Bengaluru,8.54,Excellent
+STU2024257,Tanvi Sharma,19,Female,Electronics & Comm,2nd Year,Bengaluru,8.15,Good
+STU2024258,Tarun Rao,21,Male,Information Science,4th Year,Mangaluru,7.22,Good
+STU2024259,Tanvi Hegde,18,Female,Computer Science,1st Year,Bengaluru,7.5,Good
+STU2024260,Anushka Sharma,19,Female,Computer Science,1st Year,Bengaluru,6.07,Average
+STU2024261,Rahul Kamat,20,Male,Electronics & Comm,3rd Year,Mysuru,7.38,Good
+STU2024262,Aaradhya Gowda,21,Female,Biotechnology,4th Year,Bengaluru,7.34,Good
+STU2024263,Ananya Nair,20,Female,Mechanical Engg,2nd Year,Mysuru,7.92,Good
+STU2024264,Amit Sharma,18,Male,Information Science,1st Year,Mysuru,7.01,Good
+STU2024265,Ananya Nayak,20,Female,Information Science,3rd Year,Mysuru,8.19,Good
+STU2024266,Aditi Murthy,22,Female,Electronics & Comm,4th Year,Bengaluru,8.81,Excellent
+STU2024267,Sanvi Patil,20,Female,Computer Science,3rd Year,Mangaluru,7.83,Good
+STU2024268,Ananya Deshmukh,19,Female,Civil Engg,1st Year,Mysuru,8.05,Good
+STU2024269,Deepika Iyer,19,Female,Computer Science,2nd Year,Chennai,7.71,Good
+STU2024270,Pranav Nayak,20,Male,Electronics & Comm,2nd Year,Hubballi,7.65,Good
+STU2024271,Aaradhya Rao,19,Female,Information Science,2nd Year,Bengaluru,6.82,Average
+STU2024272,Suresh Menon,18,Male,Biotechnology,1st Year,Belagavi,8.01,Good
+STU2024273,Kunal Kulkarni,20,Male,Computer Science,3rd Year,Mangaluru,7.54,Good
+STU2024274,Sachin Iyer,21,Male,Electronics & Comm,4th Year,Hubballi,9.95,Excellent
+STU2024275,Tanvi Patil,19,Female,Computer Science,2nd Year,Mysuru,9.46,Excellent
+STU2024276,Vikram Chavan,21,Male,Electronics & Comm,3rd Year,Mangaluru,8.09,Good
+STU2024277,Sam Verma,21,Other,Information Science,2nd Year,Mangaluru,6.77,Average
+STU2024278,Sanjay Chavan,21,Male,Computer Science,3rd Year,Mysuru,6.37,Average
+STU2024279,Nikhil Pai,20,Male,Biotechnology,2nd Year,Belagavi,9.02,Excellent
+STU2024280,Suresh Acharya,19,Male,Electronics & Comm,2nd Year,Hyderabad,7.95,Good
+STU2024281,Pranav Hegde,20,Male,Data Science & AI,3rd Year,Mysuru,8.2,Good
+STU2024282,Kavya Nair,20,Female,Computer Science,1st Year,Hyderabad,5.64,Average
+STU2024283,Tarun Singh,19,Male,Computer Science,1st Year,Mangaluru,8.72,Excellent
+STU2024284,Isha Shenoy,20,Female,Computer Science,3rd Year,Hyderabad,8.17,Good
+STU2024285,Pooja Deshmukh,18,Female,Electronics & Comm,1st Year,Hubballi,6.37,Average
+STU2024286,Aditi Joshi,20,Female,Data Science & AI,2nd Year,Mysuru,7.11,Good
+STU2024287,Rhea Patil,19,Female,Civil Engg,2nd Year,Mangaluru,7.95,Good
+STU2024288,Nandini Chavan,21,Female,Data Science & AI,4th Year,Mysuru,7.71,Good
+STU2024289,Aditya Reddy,21,Male,Mechanical Engg,4th Year,Pune,7.31,Good
+STU2024290,Ananya Bhat,19,Female,Data Science & AI,2nd Year,Bengaluru,7.53,Good
+STU2024291,Swati Pai,20,Female,Computer Science,2nd Year,Mysuru,7.36,Good
+STU2024292,Isha Patil,18,Female,Computer Science,1st Year,Bengaluru,7.83,Good
+STU2024293,Pranav Nayak,20,Male,Electronics & Comm,3rd Year,Mangaluru,9.34,Excellent
+STU2024294,Sneha Verma,19,Female,Computer Science,2nd Year,Chennai,4.7,Needs Improvement
+STU2024295,Manish Bhat,18,Male,Mechanical Engg,1st Year,Chennai,7.38,Good
+STU2024296,Nandini Nayak,18,Female,Mechanical Engg,1st Year,Bengaluru,7.85,Good
+STU2024297,Rhea Joshi,19,Female,Data Science & AI,2nd Year,Hubballi,7.99,Good
+STU2024298,Isha Menon,21,Female,Electronics & Comm,4th Year,Bengaluru,7.22,Good
+STU2024299,Kavya Shetty,21,Female,Information Science,3rd Year,Mangaluru,5.63,Average
+STU2024300,Gautam Prabhu,22,Male,Mechanical Engg,4th Year,Mangaluru,8.03,Good
+STU2024301,Abhishek Shetty,19,Male,Data Science & AI,2nd Year,Bengaluru,9.64,Excellent
+STU2024302,Abhishek Kamat,20,Male,Information Science,3rd Year,Mysuru,5.89,Average
+STU2024303,Neha Acharya,20,Female,Electronics & Comm,3rd Year,Belagavi,8.64,Excellent
+STU2024304,Deepika Sharma,19,Female,Electronics & Comm,2nd Year,Belagavi,7.27,Good
+STU2024305,Sachin Murthy,22,Male,Electronics & Comm,4th Year,Bengaluru,7.58,Good
+STU2024306,Diya Pai,23,Female,Computer Science,4th Year,Hyderabad,6.44,Average
+STU2024307,Sneha Joshi,21,Female,Biotechnology,3rd Year,Mangaluru,7.27,Good
+STU2024308,Shreya Shetty,23,Female,Information Science,4th Year,Hubballi,9.15,Excellent
+STU2024309,Gautam Iyer,20,Male,Computer Science,3rd Year,Mangaluru,8.32,Good
+STU2024310,Tarun Kulkarni,22,Male,Biotechnology,4th Year,Mysuru,9.64,Excellent
+STU2024311,Siddharth Pai,19,Male,Electronics & Comm,2nd Year,Bengaluru,9.0,Excellent
+STU2024312,Nandini Hegde,18,Female,Electronics & Comm,1st Year,Hyderabad,8.15,Good
+STU2024313,Manish Kamat,18,Male,Information Science,1st Year,Hubballi,9.66,Excellent
+STU2024314,Manish Chavan,18,Male,Electronics & Comm,1st Year,Hubballi,8.15,Good
+STU2024315,Arjun Verma,21,Male,Data Science & AI,4th Year,Mangaluru,8.6,Excellent
+STU2024316,Sanjay Patil,19,Male,Biotechnology,1st Year,Mysuru,7.31,Good
+STU2024317,Priya Deshmukh,20,Female,Mechanical Engg,3rd Year,Bengaluru,7.73,Good
+STU2024318,Gautam Singh,18,Male,Mechanical Engg,1st Year,Mysuru,6.85,Average
+STU2024319,Suresh Sharma,19,Male,Computer Science,2nd Year,Mangaluru,8.79,Excellent
+STU2024320,Pooja Nair,21,Female,Electronics & Comm,4th Year,Bengaluru,6.29,Average
+STU2024321,Sneha Pai,19,Female,Computer Science,2nd Year,Bengaluru,8.55,Excellent
+STU2024322,Tanvi Rao,19,Female,Computer Science,1st Year,Bengaluru,7.43,Good
+STU2024323,Mayank Deshmukh,21,Male,Civil Engg,4th Year,Hubballi,9.0,Excellent
+STU2024324,Vikram Kamat,21,Male,Biotechnology,4th Year,Bengaluru,8.51,Excellent
+STU2024325,Tarun Hegde,21,Male,Data Science & AI,3rd Year,Hubballi,9.74,Excellent
+STU2024326,Sachin Kulkarni,21,Male,Information Science,3rd Year,Mangaluru,8.49,Good
+STU2024327,Priya Rao,19,Female,Computer Science,2nd Year,Chennai,5.84,Average
+STU2024328,Ritu Kamat,19,Female,Electronics & Comm,2nd Year,Bengaluru,7.57,Good
+STU2024329,Priya Pai,22,Female,Information Science,4th Year,Bengaluru,6.3,Average
+STU2024330,Shreya Nayak,21,Female,Mechanical Engg,4th Year,Hubballi,7.05,Good
+STU2024331,Vidya Chavan,20,Female,Computer Science,3rd Year,Belagavi,9.39,Excellent
+STU2024332,Nandini Pai,20,Female,Electronics & Comm,2nd Year,Mangaluru,8.38,Good
+STU2024333,Ananya Gowda,22,Female,Civil Engg,4th Year,Mysuru,6.85,Average
+STU2024334,Manish Gowda,20,Male,Electronics & Comm,3rd Year,Mysuru,6.48,Average
+STU2024335,Sanjay Shenoy,22,Male,Computer Science,4th Year,Mangaluru,7.69,Good
+STU2024336,Aaradhya Verma,20,Female,Information Science,3rd Year,Mysuru,6.25,Average
+STU2024337,Siddharth Joshi,18,Male,Computer Science,1st Year,Bengaluru,6.88,Average
+STU2024338,Rohan Murthy,21,Male,Biotechnology,4th Year,Mysuru,8.01,Good
+STU2024339,Keerthi Kulkarni,20,Female,Computer Science,2nd Year,Chennai,8.98,Excellent
+STU2024340,Aditya Gowda,19,Male,Electronics & Comm,2nd Year,Mangaluru,8.35,Good
+STU2024341,Akash Singh,22,Male,Information Science,4th Year,Chennai,5.02,Needs Improvement
+STU2024342,Alex Kulkarni,19,Other,Data Science & AI,1st Year,Mysuru,8.0,Good
+STU2024343,Diya Prabhu,22,Female,Electronics & Comm,4th Year,Bengaluru,7.73,Good
+STU2024344,Rahul Bhat,22,Male,Mechanical Engg,4th Year,Hubballi,8.13,Good
+STU2024345,Diya Nair,18,Female,Civil Engg,1st Year,Mysuru,9.51,Excellent
+STU2024346,Rahul Reddy,20,Male,Biotechnology,3rd Year,Hubballi,5.28,Needs Improvement
+STU2024347,Rohan Deshmukh,18,Male,Computer Science,1st Year,Mangaluru,6.97,Average
+STU2024348,Mayank Reddy,21,Male,Electronics & Comm,4th Year,Belagavi,8.33,Good
+STU2024349,Pooja Rao,20,Female,Computer Science,3rd Year,Mangaluru,5.83,Average
+STU2024350,Anushka Nair,22,Female,Computer Science,4th Year,Bengaluru,9.35,Excellent
+STU2024351,Ravi Iyer,20,Male,Computer Science,3rd Year,Bengaluru,8.07,Good
+STU2024352,Sanvi Murthy,18,Female,Information Science,1st Year,Mangaluru,8.62,Excellent
+STU2024353,Amit Bhat,18,Male,Electronics & Comm,1st Year,Belagavi,6.99,Average
+STU2024354,Aarav Nair,20,Male,Mechanical Engg,2nd Year,Mangaluru,8.59,Excellent
+STU2024355,Jordan Nayak,20,Other,Computer Science,2nd Year,Bengaluru,8.88,Excellent
+STU2024356,Kavya Gowda,18,Female,Information Science,1st Year,Belagavi,7.92,Good
+STU2024357,Pooja Chavan,20,Female,Computer Science,3rd Year,Bengaluru,7.92,Good
+STU2024358,Shreya Patil,21,Female,Data Science & AI,4th Year,Mysuru,7.96,Good
+STU2024359,Swati Shenoy,18,Female,Biotechnology,1st Year,Bengaluru,6.66,Average
+STU2024360,Shreya Patil,20,Female,Electronics & Comm,2nd Year,Mangaluru,7.48,Good
+STU2024361,Shreya Murthy,21,Female,Computer Science,4th Year,Mangaluru,7.47,Good
+STU2024362,Gautam Joshi,20,Male,Biotechnology,3rd Year,Mysuru,8.09,Good
+STU2024363,Varun Nair,21,Male,Data Science & AI,4th Year,Belagavi,8.8,Excellent
+STU2024364,Arjun Menon,19,Male,Computer Science,2nd Year,Mysuru,6.43,Average
+STU2024365,Tanvi Shenoy,19,Female,Electronics & Comm,2nd Year,Hyderabad,7.51,Good
+STU2024366,Gautam Deshmukh,21,Male,Data Science & AI,4th Year,Mangaluru,9.35,Excellent
+STU2024367,Akash Hegde,21,Male,Information Science,3rd Year,Mangaluru,6.79,Average
+STU2024368,Swati Prabhu,22,Female,Information Science,3rd Year,Belagavi,6.7,Average
+STU2024369,Isha Murthy,19,Female,Electronics & Comm,1st Year,Hubballi,7.88,Good
+STU2024370,Sanvi Reddy,20,Female,Mechanical Engg,2nd Year,Bengaluru,8.62,Excellent
+STU2024371,Sam Hegde,20,Other,Computer Science,2nd Year,Pune,7.66,Good
+STU2024372,Rohan Nair,20,Male,Electronics & Comm,2nd Year,Bengaluru,9.18,Excellent
+STU2024373,Nandini Acharya,19,Female,Computer Science,2nd Year,Hubballi,8.64,Excellent
+STU2024374,Ritu Menon,19,Female,Data Science & AI,1st Year,Hubballi,8.62,Excellent
+STU2024375,Gautam Joshi,19,Male,Electronics & Comm,2nd Year,Belagavi,8.29,Good
+STU2024376,Dev Menon,20,Male,Mechanical Engg,3rd Year,Pune,9.95,Excellent
+STU2024377,Sneha Reddy,18,Female,Computer Science,1st Year,Hubballi,7.41,Good
+STU2024378,Kunal Hegde,21,Male,Information Science,4th Year,Bengaluru,5.35,Needs Improvement
+STU2024379,Rashmi Singh,19,Female,Electronics & Comm,2nd Year,Mangaluru,9.49,Excellent
+STU2024380,Rohan Rao,22,Male,Civil Engg,4th Year,Hubballi,7.12,Good
+STU2024381,Anushka Nayak,18,Female,Computer Science,1st Year,Bengaluru,7.77,Good
+STU2024382,Keerthi Iyer,19,Female,Computer Science,2nd Year,Mysuru,9.16,Excellent
+STU2024383,Swati Pai,21,Female,Biotechnology,3rd Year,Mangaluru,5.81,Average
+STU2024384,Arjun Joshi,19,Male,Computer Science,2nd Year,Mysuru,6.21,Average
+STU2024385,Kavya Kamat,23,Female,Electronics & Comm,4th Year,Mysuru,5.81,Average
+STU2024386,Siddharth Acharya,21,Male,Computer Science,4th Year,Bengaluru,6.74,Average
+STU2024387,Pranav Deshmukh,19,Male,Computer Science,2nd Year,Mysuru,8.16,Good
+STU2024388,Vikram Pai,19,Male,Computer Science,2nd Year,Mangaluru,8.25,Good
+STU2024389,Alex Chavan,19,Other,Information Science,2nd Year,Hubballi,7.97,Good
+STU2024390,Manish Nair,21,Male,Computer Science,4th Year,Pune,6.03,Average
+STU2024391,Isha Kulkarni,19,Female,Mechanical Engg,1st Year,Pune,4.99,Needs Improvement
+STU2024392,Siddharth Joshi,21,Male,Civil Engg,3rd Year,Belagavi,7.71,Good
+STU2024393,Gautam Murthy,20,Male,Biotechnology,3rd Year,Bengaluru,7.11,Good
+STU2024394,Abhishek Prabhu,21,Male,Mechanical Engg,4th Year,Mysuru,8.18,Good
+STU2024395,Priya Menon,19,Female,Computer Science,1st Year,Hubballi,8.46,Good
+STU2024396,Sanjay Reddy,19,Male,Computer Science,2nd Year,Mysuru,7.81,Good
+STU2024397,Swati Gowda,20,Female,Mechanical Engg,2nd Year,Pune,8.52,Excellent
+STU2024398,Vidya Patil,21,Female,Data Science & AI,3rd Year,Bengaluru,7.91,Good
+STU2024399,Morgan Gowda,21,Other,Biotechnology,4th Year,Belagavi,8.26,Good
+STU2024400,Rahul Nair,19,Male,Electronics & Comm,2nd Year,Mysuru,6.84,Average
+STU2024401,Rashmi Deshmukh,18,Female,Civil Engg,1st Year,Bengaluru,7.44,Good
+STU2024402,Dev Shetty,21,Male,Information Science,2nd Year,Chennai,7.88,Good
+STU2024403,Ravi Nair,19,Male,Computer Science,1st Year,Mangaluru,8.59,Excellent
+STU2024404,Sanvi Prabhu,21,Female,Information Science,4th Year,Bengaluru,7.2,Good
+STU2024405,Manish Sharma,21,Male,Computer Science,3rd Year,Mysuru,8.25,Good
+STU2024406,Pooja Verma,20,Female,Mechanical Engg,3rd Year,Belagavi,7.34,Good
+STU2024407,Robin Acharya,18,Other,Information Science,1st Year,Hubballi,7.51,Good
+STU2024408,Ritu Rao,21,Female,Civil Engg,4th Year,Hubballi,8.6,Excellent
+STU2024409,Rashmi Iyer,18,Female,Electronics & Comm,1st Year,Bengaluru,5.36,Needs Improvement
+STU2024410,Neha Menon,21,Female,Electronics & Comm,3rd Year,Mysuru,6.16,Average
+STU2024411,Isha Iyer,20,Female,Information Science,3rd Year,Chennai,5.95,Average
+STU2024412,Kavya Kulkarni,19,Female,Electronics & Comm,2nd Year,Mangaluru,4.97,Needs Improvement
+STU2024413,Suresh Bhat,22,Male,Information Science,4th Year,Mysuru,6.87,Average
+STU2024414,Tarun Reddy,19,Male,Data Science & AI,2nd Year,Chennai,8.51,Excellent
+STU2024415,Amit Kulkarni,19,Male,Electronics & Comm,2nd Year,Chennai,7.32,Good
+STU2024416,Morgan Iyer,20,Other,Information Science,2nd Year,Mangaluru,7.88,Good
+STU2024417,Vidya Gowda,18,Female,Computer Science,1st Year,Bengaluru,8.9,Excellent
+STU2024418,Shreya Verma,20,Female,Civil Engg,2nd Year,Mysuru,9.18,Excellent
+STU2024419,Swati Pai,20,Female,Computer Science,3rd Year,Bengaluru,7.57,Good
+STU2024420,Arjun Pai,19,Male,Civil Engg,2nd Year,Mangaluru,9.21,Excellent
+STU2024421,Pranav Acharya,21,Male,Computer Science,2nd Year,Bengaluru,7.76,Good
+STU2024422,Amit Shetty,20,Male,Mechanical Engg,3rd Year,Mangaluru,6.69,Average
+STU2024423,Aaradhya Acharya,18,Female,Electronics & Comm,1st Year,Bengaluru,6.97,Average
+STU2024424,Tarun Murthy,18,Male,Civil Engg,1st Year,Bengaluru,5.95,Average
+STU2024425,Aarav Patil,21,Male,Computer Science,4th Year,Hubballi,6.63,Average
+STU2024426,Akash Singh,19,Male,Electronics & Comm,2nd Year,Mangaluru,7.24,Good
+STU2024427,Priya Hegde,22,Female,Computer Science,4th Year,Hubballi,8.57,Excellent
+STU2024428,Aaradhya Kulkarni,18,Female,Data Science & AI,1st Year,Bengaluru,9.63,Excellent
+STU2024429,Alex Pai,22,Other,Mechanical Engg,4th Year,Bengaluru,6.06,Average
+STU2024430,Nandini Patil,19,Female,Information Science,2nd Year,Mysuru,8.1,Good
+STU2024431,Dev Kulkarni,24,Male,Biotechnology,4th Year,Bengaluru,6.45,Average
+STU2024432,Rhea Nair,19,Female,Computer Science,2nd Year,Bengaluru,8.2,Good
+STU2024433,Pranav Chavan,20,Male,Electronics & Comm,3rd Year,Mysuru,7.5,Good
+STU2024434,Karan Chavan,22,Male,Computer Science,4th Year,Bengaluru,5.54,Average
+STU2024435,Pooja Pai,20,Female,Data Science & AI,2nd Year,Chennai,8.72,Excellent
+STU2024436,Rashmi Reddy,22,Female,Computer Science,4th Year,Mysuru,6.95,Average
+STU2024437,Vidya Deshmukh,21,Female,Computer Science,4th Year,Bengaluru,7.04,Good
+STU2024438,Deepika Sharma,20,Female,Biotechnology,3rd Year,Bengaluru,6.42,Average
+STU2024439,Kavya Menon,21,Female,Electronics & Comm,4th Year,Mysuru,6.9,Average
+STU2024440,Jordan Nair,18,Other,Civil Engg,1st Year,Hubballi,8.14,Good
+STU2024441,Rahul Shetty,19,Male,Computer Science,2nd Year,Belagavi,7.43,Good
+STU2024442,Arjun Hegde,18,Male,Information Science,1st Year,Mangaluru,8.03,Good
+STU2024443,Jordan Shetty,19,Other,Computer Science,2nd Year,Bengaluru,8.07,Good
+STU2024444,Suresh Acharya,20,Male,Data Science & AI,3rd Year,Bengaluru,9.17,Excellent
+STU2024445,Rohan Reddy,20,Male,Computer Science,2nd Year,Chennai,7.26,Good
+STU2024446,Shreya Shetty,20,Female,Computer Science,3rd Year,Bengaluru,5.95,Average
+STU2024447,Amit Bhat,19,Male,Computer Science,1st Year,Bengaluru,8.88,Excellent
+STU2024448,Rashmi Menon,21,Female,Electronics & Comm,4th Year,Hyderabad,7.27,Good
+STU2024449,Diya Kamat,21,Female,Computer Science,4th Year,Hyderabad,8.93,Excellent
+STU2024450,Rahul Hegde,18,Male,Computer Science,1st Year,Mangaluru,8.09,Good
+STU2024451,Sachin Singh,18,Male,Computer Science,1st Year,Bengaluru,7.5,Good
+STU2024452,Priya Shetty,21,Female,Electronics & Comm,4th Year,Bengaluru,8.05,Good
+STU2024453,Sneha Pai,19,Female,Information Science,2nd Year,Mysuru,9.89,Excellent
+STU2024454,Abhishek Kulkarni,21,Male,Civil Engg,3rd Year,Chennai,9.95,Excellent
+STU2024455,Rohan Singh,20,Male,Data Science & AI,3rd Year,Mysuru,7.73,Good
+STU2024456,Meera Bhat,19,Female,Data Science & AI,2nd Year,Belagavi,7.83,Good
+STU2024457,Vidya Verma,19,Female,Computer Science,2nd Year,Bengaluru,8.89,Excellent
+STU2024458,Pooja Murthy,21,Female,Mechanical Engg,3rd Year,Belagavi,6.68,Average
+STU2024459,Kunal Reddy,20,Male,Data Science & AI,2nd Year,Bengaluru,8.03,Good
+STU2024460,Tarun Acharya,19,Male,Mechanical Engg,2nd Year,Mysuru,7.62,Good
+STU2024461,Arjun Nayak,22,Male,Civil Engg,4th Year,Chennai,8.01,Good
+STU2024462,Dev Singh,18,Male,Electronics & Comm,1st Year,Bengaluru,6.69,Average
+STU2024463,Rahul Shenoy,18,Male,Mechanical Engg,1st Year,Hyderabad,5.82,Average
+STU2024464,Rahul Deshmukh,18,Male,Data Science & AI,1st Year,Belagavi,5.27,Needs Improvement
+STU2024465,Rohan Gowda,20,Male,Information Science,2nd Year,Bengaluru,6.37,Average
+STU2024466,Kavya Joshi,20,Female,Electronics & Comm,3rd Year,Mysuru,7.12,Good
+STU2024467,Keerthi Pai,21,Female,Civil Engg,3rd Year,Bengaluru,7.31,Good
+STU2024468,Dev Reddy,20,Male,Computer Science,2nd Year,Hubballi,9.88,Excellent
+STU2024469,Kunal Reddy,22,Male,Electronics & Comm,4th Year,Bengaluru,8.92,Excellent
+STU2024470,Anushka Kulkarni,20,Female,Electronics & Comm,3rd Year,Bengaluru,6.54,Average
+STU2024471,Sanvi Patil,19,Female,Computer Science,1st Year,Hubballi,8.05,Good
+STU2024472,Rahul Shetty,18,Male,Mechanical Engg,1st Year,Mysuru,7.18,Good
+STU2024473,Tarun Bhat,18,Male,Information Science,1st Year,Bengaluru,7.32,Good
+STU2024474,Shreya Rao,20,Female,Electronics & Comm,3rd Year,Pune,7.86,Good
+STU2024475,Sanjay Kulkarni,18,Male,Data Science & AI,1st Year,Bengaluru,8.36,Good
+STU2024476,Isha Gowda,20,Female,Computer Science,2nd Year,Bengaluru,7.26,Good
+STU2024477,Akash Patil,21,Male,Electronics & Comm,3rd Year,Bengaluru,8.87,Excellent
+STU2024478,Dev Shenoy,21,Male,Computer Science,4th Year,Bengaluru,6.34,Average
+STU2024479,Keerthi Pai,21,Female,Computer Science,3rd Year,Bengaluru,7.66,Good
+STU2024480,Ananya Reddy,21,Female,Computer Science,3rd Year,Mysuru,9.95,Excellent
+STU2024481,Rhea Prabhu,20,Female,Computer Science,3rd Year,Bengaluru,7.91,Good
+STU2024482,Akash Singh,21,Male,Information Science,4th Year,Mysuru,9.3,Excellent
+STU2024483,Akash Menon,20,Male,Data Science & AI,3rd Year,Mysuru,7.76,Good
+STU2024484,Priya Shetty,19,Female,Computer Science,2nd Year,Bengaluru,8.32,Good
+STU2024485,Sanjay Hegde,18,Male,Electronics & Comm,1st Year,Chennai,7.58,Good
+STU2024486,Gautam Deshmukh,22,Male,Information Science,4th Year,Mangaluru,7.45,Good
+STU2024487,Vikram Nayak,21,Male,Computer Science,4th Year,Hyderabad,6.75,Average
+STU2024488,Abhishek Nayak,22,Male,Mechanical Engg,4th Year,Mangaluru,8.14,Good
+STU2024489,Tanvi Joshi,21,Female,Computer Science,4th Year,Bengaluru,6.67,Average
+STU2024490,Diya Prabhu,21,Female,Electronics & Comm,2nd Year,Pune,8.42,Good
+STU2024491,Nandini Gowda,18,Female,Electronics & Comm,1st Year,Pune,8.9,Excellent
+STU2024492,Aarav Acharya,20,Male,Information Science,3rd Year,Mysuru,8.07,Good
+STU2024493,Divya Nayak,21,Female,Data Science & AI,3rd Year,Mangaluru,7.32,Good
+STU2024494,Rhea Pai,22,Female,Computer Science,4th Year,Mangaluru,8.17,Good
+STU2024495,Vikram Deshmukh,18,Male,Electronics & Comm,1st Year,Hubballi,7.3,Good
+STU2024496,Shreya Patil,20,Female,Electronics & Comm,3rd Year,Bengaluru,8.73,Excellent
+STU2024497,Ritu Nair,20,Female,Data Science & AI,2nd Year,Hubballi,5.54,Average
+STU2024498,Jordan Iyer,20,Other,Civil Engg,2nd Year,Bengaluru,7.26,Good
+STU2024499,Mayank Menon,18,Male,Data Science & AI,1st Year,Mysuru,5.36,Needs Improvement
+STU2024500,Abhishek Rao,21,Male,Computer Science,4th Year,Bengaluru,5.93,Average
+STU2024501,Arjun Verma,21,Male,Computer Science,4th Year,Pune,9.22,Excellent
+STU2024502,Manish Deshmukh,20,Male,Mechanical Engg,2nd Year,Bengaluru,8.68,Excellent
+STU2024503,Abhishek Reddy,20,Male,Computer Science,3rd Year,Mysuru,6.82,Average
+STU2024504,Dev Singh,20,Male,Computer Science,3rd Year,Pune,5.92,Average
+STU2024505,Suresh Gowda,19,Male,Computer Science,2nd Year,Mangaluru,4.24,Needs Improvement
+STU2024506,Jordan Menon,18,Other,Mechanical Engg,1st Year,Mysuru,7.02,Good
+STU2024507,Sanjay Bhat,19,Male,Computer Science,2nd Year,Belagavi,9.95,Excellent
+STU2024508,Anushka Nair,21,Female,Computer Science,3rd Year,Pune,8.15,Good
+STU2024509,Varun Murthy,18,Male,Electronics & Comm,1st Year,Mangaluru,7.01,Good
+STU2024510,Aarav Verma,23,Male,Civil Engg,4th Year,Mangaluru,8.18,Good
+STU2024511,Pranav Nair,20,Male,Information Science,3rd Year,Bengaluru,5.85,Average
+STU2024512,Priya Murthy,22,Female,Mechanical Engg,3rd Year,Bengaluru,7.31,Good
+STU2024513,Manish Deshmukh,22,Male,Electronics & Comm,4th Year,Mangaluru,7.76,Good
+STU2024514,Tarun Bhat,22,Male,Computer Science,3rd Year,Mysuru,7.55,Good
+STU2024515,Ananya Nayak,20,Female,Computer Science,3rd Year,Hubballi,8.56,Excellent
+STU2024516,Aditi Menon,23,Female,Mechanical Engg,4th Year,Mysuru,8.05,Good
+STU2024517,Sanjay Pai,18,Male,Computer Science,1st Year,Bengaluru,8.42,Good
+STU2024518,Dev Prabhu,22,Male,Computer Science,4th Year,Bengaluru,6.86,Average
+STU2024519,Siddharth Patil,19,Male,Electronics & Comm,2nd Year,Bengaluru,8.68,Excellent
+STU2024520,Swati Nayak,21,Female,Electronics & Comm,3rd Year,Bengaluru,9.52,Excellent
+STU2024521,Rashmi Reddy,19,Female,Data Science & AI,2nd Year,Bengaluru,6.53,Average
+STU2024522,Morgan Sharma,22,Other,Biotechnology,4th Year,Bengaluru,6.63,Average
+STU2024523,Dev Gowda,19,Male,Computer Science,2nd Year,Mangaluru,9.19,Excellent
+STU2024524,Priya Kamat,20,Female,Civil Engg,3rd Year,Mysuru,7.43,Good
+STU2024525,Akash Iyer,21,Male,Information Science,3rd Year,Chennai,9.26,Excellent
+STU2024526,Ananya Pai,18,Female,Computer Science,1st Year,Bengaluru,7.14,Good
+STU2024527,Karan Bhat,21,Male,Computer Science,3rd Year,Hubballi,9.32,Excellent
+STU2024528,Kavya Hegde,19,Female,Computer Science,2nd Year,Belagavi,7.8,Good
+STU2024529,Rhea Shetty,20,Female,Information Science,3rd Year,Pune,7.95,Good
+STU2024530,Morgan Singh,19,Other,Biotechnology,2nd Year,Hyderabad,9.45,Excellent
+STU2024531,Pooja Kulkarni,20,Female,Mechanical Engg,3rd Year,Mangaluru,7.23,Good
+STU2024532,Sanvi Acharya,20,Female,Data Science & AI,3rd Year,Bengaluru,6.57,Average
+STU2024533,Aditya Shenoy,22,Male,Mechanical Engg,4th Year,Bengaluru,7.13,Good
+STU2024534,Siddharth Shetty,19,Male,Electronics & Comm,2nd Year,Bengaluru,8.17,Good
+STU2024535,Ravi Bhat,20,Male,Mechanical Engg,2nd Year,Bengaluru,5.85,Average
+STU2024536,Arjun Sharma,21,Male,Mechanical Engg,4th Year,Bengaluru,8.38,Good
+STU2024537,Isha Singh,18,Female,Computer Science,1st Year,Mysuru,7.03,Good
+STU2024538,Keerthi Sharma,19,Female,Electronics & Comm,2nd Year,Bengaluru,8.97,Excellent
+STU2024539,Rahul Kulkarni,18,Male,Data Science & AI,1st Year,Pune,4.9,Needs Improvement
+STU2024540,Arjun Gowda,21,Male,Mechanical Engg,4th Year,Hyderabad,6.75,Average
+STU2024541,Varun Nair,18,Male,Civil Engg,1st Year,Pune,5.71,Average
+STU2024542,Rohan Prabhu,20,Male,Computer Science,2nd Year,Hubballi,6.7,Average
+STU2024543,Kavya Prabhu,20,Female,Data Science & AI,3rd Year,Chennai,7.93,Good
+STU2024544,Nandini Gowda,19,Female,Computer Science,2nd Year,Mysuru,7.44,Good
+STU2024545,Shreya Acharya,22,Female,Mechanical Engg,4th Year,Belagavi,7.36,Good
+STU2024546,Keerthi Chavan,19,Female,Computer Science,1st Year,Mysuru,7.47,Good
+STU2024547,Kunal Prabhu,19,Male,Civil Engg,2nd Year,Mangaluru,7.88,Good
+STU2024548,Tarun Iyer,19,Male,Data Science & AI,2nd Year,Mysuru,6.49,Average
+STU2024549,Swati Patil,19,Female,Electronics & Comm,1st Year,Hubballi,8.46,Good
+STU2024550,Manish Prabhu,21,Male,Mechanical Engg,4th Year,Mangaluru,8.41,Good
+STU2024551,Nandini Kulkarni,20,Female,Mechanical Engg,2nd Year,Bengaluru,8.09,Good
+STU2024552,Mayank Deshmukh,19,Male,Electronics & Comm,1st Year,Mysuru,8.29,Good
+STU2024553,Dev Gowda,20,Male,Information Science,3rd Year,Bengaluru,7.99,Good
+STU2024554,Gautam Menon,20,Male,Computer Science,2nd Year,Mysuru,9.95,Excellent
+STU2024555,Akash Singh,19,Male,Electronics & Comm,2nd Year,Mangaluru,7.55,Good
+STU2024556,Sneha Deshmukh,20,Female,Computer Science,3rd Year,Mangaluru,7.3,Good
+STU2024557,Pranav Verma,21,Male,Information Science,3rd Year,Bengaluru,6.78,Average
+STU2024558,Manish Shetty,20,Male,Electronics & Comm,2nd Year,Hubballi,6.46,Average
+STU2024559,Tanvi Hegde,18,Female,Computer Science,1st Year,Mysuru,6.22,Average
+STU2024560,Pranav Pai,20,Male,Computer Science,2nd Year,Bengaluru,6.63,Average
+STU2024561,Keerthi Chavan,20,Female,Electronics & Comm,3rd Year,Bengaluru,7.57,Good
+STU2024562,Sachin Kamat,20,Male,Mechanical Engg,2nd Year,Bengaluru,8.03,Good
+STU2024563,Swati Prabhu,21,Female,Information Science,3rd Year,Mangaluru,7.71,Good
+STU2024564,Arjun Singh,19,Male,Electronics & Comm,1st Year,Mysuru,6.77,Average
+STU2024565,Abhishek Joshi,20,Male,Civil Engg,3rd Year,Bengaluru,8.69,Excellent
+STU2024566,Mayank Patil,19,Male,Biotechnology,2nd Year,Hyderabad,8.5,Excellent
+STU2024567,Nikhil Reddy,23,Male,Information Science,4th Year,Bengaluru,7.47,Good
+STU2024568,Keerthi Chavan,20,Female,Electronics & Comm,2nd Year,Bengaluru,6.9,Average
+STU2024569,Gautam Menon,18,Male,Mechanical Engg,1st Year,Hubballi,8.28,Good
+STU2024570,Arjun Acharya,22,Male,Electronics & Comm,3rd Year,Hubballi,7.87,Good
+STU2024571,Isha Rao,20,Female,Biotechnology,3rd Year,Hubballi,5.98,Average
+STU2024572,Gautam Nair,21,Male,Computer Science,4th Year,Bengaluru,7.57,Good
+STU2024573,Ananya Prabhu,18,Female,Civil Engg,1st Year,Chennai,7.95,Good
+STU2024574,Arjun Deshmukh,20,Male,Mechanical Engg,3rd Year,Bengaluru,6.62,Average
+STU2024575,Amit Shenoy,22,Male,Data Science & AI,4th Year,Hubballi,7.87,Good
+STU2024576,Manish Verma,22,Male,Information Science,4th Year,Mangaluru,5.98,Average
+STU2024577,Sachin Sharma,23,Male,Information Science,4th Year,Mangaluru,9.19,Excellent
+STU2024578,Priya Kamat,21,Female,Data Science & AI,3rd Year,Belagavi,9.09,Excellent
+STU2024579,Suresh Acharya,21,Male,Electronics & Comm,3rd Year,Mangaluru,7.36,Good
+STU2024580,Karan Nair,21,Male,Computer Science,2nd Year,Chennai,8.07,Good
+STU2024581,Amit Reddy,18,Male,Computer Science,1st Year,Bengaluru,4.88,Needs Improvement
+STU2024582,Aarav Patil,20,Male,Computer Science,2nd Year,Hyderabad,6.32,Average
+STU2024583,Ravi Shenoy,21,Male,Civil Engg,4th Year,Mangaluru,7.31,Good
+STU2024584,Keerthi Patil,21,Female,Electronics & Comm,2nd Year,Belagavi,6.42,Average
+STU2024585,Aditi Pai,19,Female,Data Science & AI,2nd Year,Mangaluru,8.47,Good
+STU2024586,Rhea Kamat,22,Female,Electronics & Comm,4th Year,Mangaluru,9.95,Excellent
+STU2024587,Ravi Bhat,18,Male,Computer Science,1st Year,Mangaluru,6.3,Average
+STU2024588,Manish Deshmukh,20,Male,Data Science & AI,3rd Year,Hyderabad,6.69,Average
+STU2024589,Aditi Chavan,20,Female,Civil Engg,2nd Year,Mysuru,7.92,Good
+STU2024590,Varun Singh,19,Male,Computer Science,1st Year,Mysuru,9.5,Excellent
+STU2024591,Dev Pai,21,Male,Computer Science,3rd Year,Mangaluru,6.24,Average
+STU2024592,Rashmi Sharma,21,Female,Civil Engg,4th Year,Pune,7.94,Good
+STU2024593,Siddharth Menon,21,Male,Mechanical Engg,4th Year,Bengaluru,9.74,Excellent
+STU2024594,Aditya Gowda,18,Male,Computer Science,1st Year,Bengaluru,5.75,Average
+STU2024595,Nikhil Sharma,19,Male,Information Science,2nd Year,Bengaluru,6.18,Average
+STU2024596,Gautam Bhat,21,Male,Mechanical Engg,3rd Year,Mangaluru,7.16,Good
+STU2024597,Akash Rao,21,Male,Civil Engg,4th Year,Bengaluru,7.05,Good
+STU2024598,Tanvi Reddy,20,Female,Electronics & Comm,2nd Year,Mangaluru,8.58,Excellent
+STU2024599,Shreya Pai,19,Female,Information Science,2nd Year,Pune,7.93,Good
+STU2024600,Morgan Bhat,20,Other,Computer Science,3rd Year,Bengaluru,5.61,Average
+STU2024601,Gautam Pai,21,Male,Mechanical Engg,4th Year,Hyderabad,8.24,Good
+STU2024602,Sneha Menon,21,Female,Computer Science,4th Year,Mangaluru,6.99,Average
+STU2024603,Isha Joshi,20,Female,Computer Science,3rd Year,Hubballi,9.12,Excellent
+STU2024604,Sam Menon,20,Other,Computer Science,3rd Year,Bengaluru,6.93,Average
+STU2024605,Vikram Patil,20,Male,Computer Science,2nd Year,Bengaluru,6.92,Average
+STU2024606,Neha Patil,19,Female,Mechanical Engg,2nd Year,Hubballi,8.27,Good
+STU2024607,Divya Rao,23,Female,Computer Science,4th Year,Bengaluru,8.53,Excellent
+STU2024608,Suresh Chavan,20,Male,Information Science,3rd Year,Hubballi,8.17,Good
+STU2024609,Vidya Shetty,20,Female,Electronics & Comm,2nd Year,Bengaluru,5.71,Average
+STU2024610,Akash Murthy,21,Male,Electronics & Comm,4th Year,Bengaluru,8.27,Good
+STU2024611,Akash Chavan,18,Male,Electronics & Comm,1st Year,Bengaluru,6.46,Average
+STU2024612,Sachin Nayak,18,Male,Computer Science,1st Year,Pune,7.92,Good
+STU2024613,Ravi Iyer,19,Male,Civil Engg,2nd Year,Hubballi,6.01,Average
+STU2024614,Tanvi Verma,19,Female,Electronics & Comm,2nd Year,Mangaluru,8.16,Good
+STU2024615,Mayank Prabhu,18,Male,Information Science,1st Year,Bengaluru,6.72,Average
+STU2024616,Sanjay Iyer,20,Male,Information Science,3rd Year,Bengaluru,6.17,Average
+STU2024617,Akash Murthy,19,Male,Computer Science,2nd Year,Hyderabad,8.47,Good
+STU2024618,Vidya Shetty,21,Female,Mechanical Engg,4th Year,Bengaluru,7.93,Good
+STU2024619,Kiran Chavan,18,Other,Computer Science,1st Year,Mangaluru,6.94,Average
+STU2024620,Swati Gowda,19,Female,Data Science & AI,2nd Year,Mysuru,9.32,Excellent
+STU2024621,Sanvi Singh,22,Female,Computer Science,4th Year,Pune,7.14,Good
+STU2024622,Pooja Gowda,19,Female,Computer Science,2nd Year,Bengaluru,7.69,Good
+STU2024623,Amit Prabhu,19,Male,Mechanical Engg,1st Year,Mysuru,7.96,Good
+STU2024624,Karan Nayak,19,Male,Computer Science,1st Year,Bengaluru,6.94,Average
+STU2024625,Dev Iyer,20,Male,Electronics & Comm,3rd Year,Bengaluru,8.19,Good
+STU2024626,Meera Verma,22,Female,Electronics & Comm,4th Year,Bengaluru,7.04,Good
+STU2024627,Sanjay Nair,21,Male,Electronics & Comm,4th Year,Mysuru,7.18,Good
+STU2024628,Manish Sharma,21,Male,Civil Engg,3rd Year,Bengaluru,9.22,Excellent
+STU2024629,Nikhil Joshi,20,Male,Information Science,3rd Year,Mangaluru,6.45,Average
+STU2024630,Shreya Iyer,18,Female,Data Science & AI,1st Year,Mysuru,4.88,Needs Improvement
+STU2024631,Kavya Shenoy,18,Female,Electronics & Comm,1st Year,Bengaluru,9.5,Excellent
+STU2024632,Abhishek Hegde,18,Male,Data Science & AI,1st Year,Mangaluru,9.95,Excellent
+STU2024633,Rashmi Menon,19,Female,Data Science & AI,2nd Year,Hubballi,7.18,Good
+STU2024634,Vidya Reddy,20,Female,Data Science & AI,2nd Year,Pune,5.42,Needs Improvement
+STU2024635,Siddharth Iyer,19,Male,Data Science & AI,1st Year,Bengaluru,7.29,Good
+STU2024636,Gautam Sharma,18,Male,Mechanical Engg,1st Year,Bengaluru,7.32,Good
+STU2024637,Abhishek Bhat,19,Male,Civil Engg,2nd Year,Mysuru,7.43,Good
+STU2024638,Sneha Menon,20,Female,Electronics & Comm,3rd Year,Mangaluru,6.37,Average
+STU2024639,Sanjay Reddy,20,Male,Civil Engg,3rd Year,Mysuru,8.32,Good
+STU2024640,Aditi Singh,18,Female,Information Science,1st Year,Hubballi,8.25,Good
+STU2024641,Sanjay Hegde,20,Male,Mechanical Engg,3rd Year,Bengaluru,5.93,Average
+STU2024642,Shreya Patil,22,Female,Mechanical Engg,4th Year,Bengaluru,8.45,Good
+STU2024643,Swati Bhat,22,Female,Electronics & Comm,4th Year,Mangaluru,9.95,Excellent
+STU2024644,Priya Kulkarni,19,Female,Mechanical Engg,2nd Year,Hyderabad,7.85,Good
+STU2024645,Swati Verma,21,Female,Computer Science,2nd Year,Belagavi,7.26,Good
+STU2024646,Vidya Shetty,19,Female,Data Science & AI,1st Year,Mysuru,7.49,Good
+STU2024647,Anushka Verma,19,Female,Computer Science,2nd Year,Bengaluru,8.36,Good
+STU2024648,Aaradhya Joshi,18,Female,Information Science,1st Year,Mangaluru,5.66,Average
+STU2024649,Neha Verma,19,Female,Data Science & AI,1st Year,Mangaluru,7.84,Good
+STU2024650,Gautam Nayak,21,Male,Computer Science,2nd Year,Mangaluru,7.2,Good
+STU2024651,Shreya Nayak,18,Female,Electronics & Comm,1st Year,Mangaluru,9.77,Excellent
+STU2024652,Rahul Hegde,23,Male,Data Science & AI,4th Year,Belagavi,7.45,Good
+STU2024653,Suresh Shetty,22,Male,Civil Engg,4th Year,Hubballi,9.57,Excellent
+STU2024654,Sam Prabhu,19,Other,Computer Science,2nd Year,Bengaluru,6.38,Average
+STU2024655,Swati Kulkarni,20,Female,Information Science,3rd Year,Chennai,8.33,Good
+STU2024656,Aarav Acharya,21,Male,Computer Science,4th Year,Hubballi,8.02,Good
+STU2024657,Akash Pai,21,Male,Information Science,4th Year,Pune,6.65,Average
+STU2024658,Nandini Prabhu,21,Female,Mechanical Engg,4th Year,Bengaluru,7.85,Good
+STU2024659,Priya Kamat,19,Female,Civil Engg,1st Year,Mysuru,9.04,Excellent
+STU2024660,Amit Gowda,21,Male,Electronics & Comm,3rd Year,Belagavi,7.28,Good
+STU2024661,Aditya Singh,19,Male,Data Science & AI,2nd Year,Pune,5.7,Average
+STU2024662,Nikhil Singh,19,Male,Electronics & Comm,1st Year,Mysuru,7.63,Good
+STU2024663,Arjun Deshmukh,19,Male,Data Science & AI,2nd Year,Bengaluru,6.61,Average
+STU2024664,Rashmi Joshi,19,Female,Electronics & Comm,2nd Year,Bengaluru,7.26,Good
+STU2024665,Rashmi Kamat,19,Female,Information Science,2nd Year,Pune,7.56,Good
+STU2024666,Priya Kulkarni,20,Female,Information Science,1st Year,Bengaluru,5.69,Average
+STU2024667,Sneha Acharya,20,Female,Information Science,3rd Year,Mysuru,5.79,Average
+STU2024668,Kunal Prabhu,18,Male,Computer Science,1st Year,Bengaluru,8.2,Good
+STU2024669,Shreya Kamat,20,Female,Computer Science,1st Year,Belagavi,7.05,Good
+STU2024670,Vidya Iyer,22,Female,Electronics & Comm,4th Year,Hubballi,4.7,Needs Improvement
+STU2024671,Pranav Murthy,20,Male,Information Science,3rd Year,Hubballi,8.55,Excellent
+STU2024672,Priya Singh,21,Female,Mechanical Engg,4th Year,Bengaluru,7.96,Good
+STU2024673,Aditi Murthy,19,Female,Information Science,2nd Year,Hubballi,6.83,Average
+STU2024674,Kunal Nayak,20,Male,Biotechnology,3rd Year,Bengaluru,6.14,Average
+STU2024675,Deepika Singh,21,Female,Computer Science,4th Year,Mangaluru,8.61,Excellent
+STU2024676,Kavya Joshi,21,Female,Information Science,3rd Year,Mangaluru,8.05,Good
+STU2024677,Diya Gowda,18,Female,Information Science,1st Year,Bengaluru,9.95,Excellent
+STU2024678,Swati Reddy,19,Female,Data Science & AI,2nd Year,Mysuru,8.13,Good
+STU2024679,Varun Sharma,19,Male,Computer Science,1st Year,Bengaluru,8.1,Good
+STU2024680,Nandini Acharya,20,Female,Information Science,3rd Year,Bengaluru,7.46,Good
+STU2024681,Vikram Pai,19,Male,Electronics & Comm,1st Year,Chennai,8.59,Excellent
+STU2024682,Anushka Iyer,19,Female,Information Science,1st Year,Bengaluru,8.37,Good
+STU2024683,Varun Menon,18,Male,Computer Science,1st Year,Bengaluru,9.09,Excellent
+STU2024684,Ritu Singh,20,Female,Data Science & AI,2nd Year,Mangaluru,7.05,Good
+STU2024685,Keerthi Pai,18,Female,Electronics & Comm,1st Year,Mangaluru,7.15,Good
+STU2024686,Abhishek Menon,20,Male,Information Science,3rd Year,Mangaluru,7.1,Good
+STU2024687,Varun Nair,19,Male,Information Science,2nd Year,Bengaluru,8.56,Excellent
+STU2024688,Arjun Rao,19,Male,Mechanical Engg,2nd Year,Mysuru,9.37,Excellent
+STU2024689,Pranav Bhat,21,Male,Electronics & Comm,3rd Year,Belagavi,7.12,Good
+STU2024690,Karan Sharma,21,Male,Computer Science,4th Year,Hubballi,7.16,Good
+STU2024691,Sachin Kulkarni,18,Male,Computer Science,1st Year,Belagavi,8.01,Good
+STU2024692,Suresh Prabhu,19,Male,Electronics & Comm,2nd Year,Bengaluru,7.37,Good
+STU2024693,Diya Joshi,18,Female,Information Science,1st Year,Mysuru,8.74,Excellent
+STU2024694,Vikram Kamat,19,Male,Biotechnology,2nd Year,Bengaluru,5.06,Needs Improvement
+STU2024695,Kiran Murthy,18,Other,Computer Science,1st Year,Bengaluru,6.7,Average
+STU2024696,Neha Patil,20,Female,Electronics & Comm,2nd Year,Mysuru,6.75,Average
+STU2024697,Aditya Patil,19,Male,Computer Science,1st Year,Bengaluru,4.98,Needs Improvement
+STU2024698,Aditi Singh,19,Female,Computer Science,1st Year,Mysuru,6.54,Average
+STU2024699,Keerthi Kulkarni,21,Female,Computer Science,2nd Year,Chennai,6.6,Average
+STU2024700,Nandini Hegde,21,Female,Electronics & Comm,2nd Year,Hubballi,7.42,Good
+STU2024701,Ritu Joshi,20,Female,Data Science & AI,3rd Year,Mysuru,8.93,Excellent
+STU2024702,Swati Nair,19,Female,Data Science & AI,1st Year,Bengaluru,7.37,Good
+STU2024703,Swati Sharma,19,Female,Computer Science,2nd Year,Bengaluru,6.46,Average
+STU2024704,Aarav Deshmukh,21,Male,Mechanical Engg,3rd Year,Bengaluru,7.58,Good
+STU2024705,Manish Joshi,20,Male,Information Science,2nd Year,Chennai,8.86,Excellent
+STU2024706,Aditya Deshmukh,19,Male,Electronics & Comm,2nd Year,Bengaluru,6.53,Average
+STU2024707,Rahul Pai,22,Male,Civil Engg,4th Year,Mysuru,6.6,Average
+STU2024708,Keerthi Reddy,19,Female,Data Science & AI,2nd Year,Mysuru,8.29,Good
+STU2024709,Rhea Pai,20,Female,Computer Science,3rd Year,Bengaluru,7.4,Good
+STU2024710,Nikhil Shenoy,22,Male,Computer Science,4th Year,Bengaluru,8.39,Good
+STU2024711,Priya Pai,19,Female,Electronics & Comm,2nd Year,Mysuru,7.63,Good
+STU2024712,Aaradhya Shenoy,22,Female,Computer Science,4th Year,Hubballi,8.46,Good
+STU2024713,Gautam Reddy,18,Male,Civil Engg,1st Year,Bengaluru,6.46,Average
+STU2024714,Sneha Menon,19,Female,Mechanical Engg,2nd Year,Bengaluru,7.64,Good
+STU2024715,Dev Deshmukh,18,Male,Computer Science,1st Year,Mangaluru,7.41,Good
+STU2024716,Sanjay Singh,20,Male,Computer Science,2nd Year,Mysuru,6.25,Average
+STU2024717,Akash Bhat,21,Male,Electronics & Comm,4th Year,Pune,5.85,Average
+STU2024718,Swati Deshmukh,20,Female,Data Science & AI,2nd Year,Belagavi,8.44,Good
+STU2024719,Aditya Shenoy,18,Male,Computer Science,1st Year,Bengaluru,7.25,Good
+STU2024720,Abhishek Hegde,18,Male,Information Science,1st Year,Bengaluru,6.47,Average
+STU2024721,Kunal Menon,22,Male,Electronics & Comm,4th Year,Hubballi,7.54,Good
+STU2024722,Kunal Rao,21,Male,Information Science,3rd Year,Bengaluru,8.95,Excellent
+STU2024723,Gautam Reddy,20,Male,Electronics & Comm,2nd Year,Mangaluru,5.03,Needs Improvement
+STU2024724,Rahul Pai,21,Male,Information Science,4th Year,Belagavi,5.93,Average
+STU2024725,Nandini Patil,20,Female,Computer Science,3rd Year,Belagavi,6.59,Average
+STU2024726,Nikhil Rao,21,Male,Information Science,4th Year,Hubballi,9.33,Excellent
+STU2024727,Alex Verma,19,Other,Computer Science,1st Year,Chennai,7.97,Good
+STU2024728,Ritu Bhat,23,Female,Civil Engg,4th Year,Hyderabad,8.53,Excellent
+STU2024729,Kunal Nayak,18,Male,Information Science,1st Year,Bengaluru,6.34,Average
+STU2024730,Divya Kulkarni,19,Female,Computer Science,1st Year,Mysuru,6.36,Average
+STU2024731,Tarun Gowda,21,Male,Computer Science,3rd Year,Belagavi,8.16,Good
+STU2024732,Kunal Hegde,20,Male,Mechanical Engg,3rd Year,Mangaluru,7.72,Good
+STU2024733,Ananya Patil,20,Female,Information Science,2nd Year,Pune,8.28,Good
+STU2024734,Manish Chavan,21,Male,Computer Science,3rd Year,Belagavi,7.43,Good
+STU2024735,Rhea Verma,18,Female,Computer Science,1st Year,Mysuru,7.97,Good
+STU2024736,Ananya Prabhu,20,Female,Information Science,3rd Year,Mangaluru,7.83,Good
+STU2024737,Manish Sharma,19,Male,Computer Science,2nd Year,Bengaluru,8.54,Excellent
+STU2024738,Aditya Pai,19,Male,Electronics & Comm,2nd Year,Belagavi,8.58,Excellent
+STU2024739,Kavya Singh,20,Female,Mechanical Engg,3rd Year,Bengaluru,5.79,Average
+STU2024740,Tarun Verma,18,Male,Civil Engg,1st Year,Bengaluru,5.07,Needs Improvement
+STU2024741,Akash Hegde,20,Male,Information Science,3rd Year,Bengaluru,8.8,Excellent
+STU2024742,Aarav Nair,18,Male,Civil Engg,1st Year,Belagavi,9.02,Excellent
+STU2024743,Varun Deshmukh,21,Male,Mechanical Engg,4th Year,Bengaluru,6.48,Average
+STU2024744,Akash Hegde,20,Male,Electronics & Comm,3rd Year,Bengaluru,5.51,Average
+STU2024745,Pranav Bhat,20,Male,Information Science,2nd Year,Mysuru,7.76,Good
+STU2024746,Nandini Pai,18,Female,Mechanical Engg,1st Year,Mangaluru,8.72,Excellent
+STU2024747,Arjun Acharya,20,Male,Electronics & Comm,3rd Year,Mangaluru,9.72,Excellent
+STU2024748,Meera Deshmukh,20,Female,Electronics & Comm,2nd Year,Bengaluru,8.24,Good
+STU2024749,Aarav Gowda,19,Male,Data Science & AI,2nd Year,Mangaluru,7.22,Good
+STU2024750,Aarav Nair,22,Male,Computer Science,4th Year,Mysuru,6.62,Average
